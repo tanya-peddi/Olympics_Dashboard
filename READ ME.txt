@@ -1,0 +1,3 @@
+READ ME
+As part of a mini project , created a dashboard in Tableau regarding the Olympics Dataset. The link of the dashboard is below
+https://public.tableau.com/profile/tanya6613#!/vizhome/VAMiniProjectFinal/Dashboard1 
